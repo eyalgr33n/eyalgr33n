@@ -1,4 +1,5 @@
-![Gif]((https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif))
+![Development](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
 
 <h1 align="center" style="font-family: 'Arial Black', Gadget, sans-serif;">Personal Info</h1>
 
